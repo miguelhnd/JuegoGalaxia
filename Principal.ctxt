@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=
+comment1.target=Principal()
+comment2.params=marco\ nivel\ planeta\ habi\ conquistado
+comment2.target=Principal(javax.swing.JFrame,\ int,\ java.lang.String,\ int,\ boolean)
+comment3.params=marco\ nivel\ PlanetaConquistado
+comment3.target=Principal(javax.swing.JFrame,\ int,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

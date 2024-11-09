@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlanetaVenus
+comment1.params=x\ y\ habi
+comment1.target=PlanetaVenus(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ mover()
+numComments=3

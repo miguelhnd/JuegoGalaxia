@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Rotulacion
+comment1.params=x\ y\ tipo
+comment1.target=Rotulacion(int,\ int,\ java.lang.String)
+comment2.params=g
+comment2.target=void\ dibujar(java.awt.Graphics)
+comment3.params=v
+comment3.target=void\ setVisible(int)
+comment4.params=
+comment4.target=int\ getVisible()
+numComments=5
