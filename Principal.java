@@ -16,8 +16,8 @@ public class Principal extends JFrame
     private static ImageIcon ImagenEntrada;
     public Principal()
     {
-        ENivel2 = new EscenarioNivel2(this,"");
-        add(ENivel2);
+        ENivel1 = new EscenarioNivel1(this,"");
+        add(ENivel1);
         setResizable(false);
         setSize(1000,700);
         setVisible(true);
